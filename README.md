@@ -1,5 +1,5 @@
 # NAVIGATION BAR PROJECT
-This projects uses javascript to create a toggle functionality for the nave bar.
+This projects uses javascript to create a toggle functionality for the nav bar.
 
 ## Functionality
 The page loads up as below;
